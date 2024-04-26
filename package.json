@@ -6,7 +6,8 @@
   "icon": "icon.png",
   "author": "anwarulislam",
   "categories": [
-    "Applications"
+    "Applications",
+    "Design Tools"
   ],
   "license": "MIT",
   "commands": [
