@@ -13,8 +13,8 @@
     {
       "name": "ruler",
       "title": "Ruler",
-      "subtitle": "Calculate Distance",
-      "description": "Calculate Distance Between Two Points",
+      "subtitle": "Measure Distance",
+      "description": "Measure Distance Between Two Points",
       "mode": "no-view"
     }
   ],
